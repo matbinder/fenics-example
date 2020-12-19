@@ -1,7 +1,8 @@
 channels:
 - conda-forge
 dependencies:
-- fenics
-- mshr
+- fenics =2019.1.0
+- fenics-libdolfin =2019.1.0=*_8
+- mshr =2019.1.0=*_2
 - matplotlib
 - numpy
